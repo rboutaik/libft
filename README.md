@@ -1,3 +1,18 @@
+<span style="color:blue">
+
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓███████▓▒░░▒▓████████▓▒░▒▓████████▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░     
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░     
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓███████▓▒░░▒▓██████▓▒░    ░▒▓█▓▒░     
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░     
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░         ░▒▓█▓▒░     
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░         ░▒▓█▓▒░     
+
+</span>
+
+
+
+
 # LibFT: A Brave New Journey into C Programming Mastery
 
 Welcome to LibFT, your gateway to mastering the intricate art of C programming! Developed as a pivotal project within the esteemed corridors of 42 School, LibFT stands as a testament to courage, resilience, and the relentless pursuit of excellence in software development.
